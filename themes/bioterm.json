@@ -1,0 +1,29 @@
+{
+    "name" : "bioterm theme",
+    "elements" : [ {
+      "tag" : "authentik",
+      "icon" : "https://raw.githubusercontent.com/goauthentik/authentik/main/website/static/img/icon.png"
+    }, {
+      "tag" : "elabftw",
+      "icon" : "https://raw.githubusercontent.com/elabftw/elabftw/f2f99d11093e78f632e8398f5b6aa8104d8e2baa/web/app/img/favicon.svg"
+    }, {
+      "tag" : "redis",
+      "shape" : "Cylinder",
+      "icon" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo-redis.svg/2560px-Logo-redis.svg.png"
+    }, {
+      "tag" : "webbrowser",
+      "shape" : "WebBrowser"
+    }, {
+      "tag" : "grafana",
+      "icon" : "https://upload.wikimedia.org/wikipedia/commons/a/a1/Grafana_logo.svg"
+    }, {
+      "tag" : "postgresql",
+      "shape" : "Cylinder",
+      "icon" : "https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg"
+    }, {
+      "tag" : "nginx",
+      "icon" : "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg"
+    }             
+  ]
+  }
+  
